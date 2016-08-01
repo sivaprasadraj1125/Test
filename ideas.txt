@@ -1,0 +1,13 @@
+Components:
+Responsive rich text comment box
+
+
+
+
+
+Apps:
+Home page with Authentication
+MMS
+Nearest ATM
+Ebook reader
+EShop
